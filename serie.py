@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# lsusb to check device name
 #dmesg | grep "tty" to find port name
 import serial,time,json,os
 if __name__ == '__main__':
